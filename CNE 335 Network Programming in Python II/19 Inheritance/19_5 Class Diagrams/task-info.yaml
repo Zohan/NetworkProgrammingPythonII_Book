@@ -1,0 +1,18 @@
+type: edu
+files:
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false
+- name: UserUMLDiagram.png
+  visible: false 
+- name: User.py
+  visible: true
+- name: PowerUser.py
+  visible: true
+- name: NormalUser.py
+  visible: true
+- name: Admin.py
+  visible: true
+- name: tests/test_task.py
+  visible: true
